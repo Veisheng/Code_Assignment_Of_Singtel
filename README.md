@@ -58,4 +58,4 @@ Eclipse IDE - import the Project as JAVA Project and add the dependencies(if req
 * [Eclipse IDE ](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2021-06/R/eclipse-inst-jre-win64.exe) - IDE for JAVA
 
 ### Author
-[Vei Sheng Ong](mailto:veisheng1013@gmail.com?subject=[GitHub] Code Assignment of Singtel)
+[Vei Sheng Ong](mailto:veisheng1013@gmail.com?subject=[GitHub]%20Code%20Assignment%20of%20Singtel)
