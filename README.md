@@ -1,4 +1,4 @@
-# About The Code assignment Backend Chapter - Completed by Vei Sheng Ong
+# Code assignment Backend Chapter - Vei Sheng Ong
 This project is about the code assignment of Singtel.
 
 
